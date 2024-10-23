@@ -82,7 +82,7 @@ global.fgpyp = 'https://youtube.com/'
 global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
 global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
-global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*🕑☠️_processing..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '🕑'
 global.dmoji = '🤭'
 global.done = '✅'
